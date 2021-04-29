@@ -1,0 +1,42 @@
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\appsettings.json
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\API Com ASP.NET Core.exe
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\API Com ASP.NET Core.deps.json
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\API Com ASP.NET Core.runtimeconfig.json
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\API Com ASP.NET Core.runtimeconfig.dev.json
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\API Com ASP.NET Core.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\ref\API Com ASP.NET Core.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\API Com ASP.NET Core.pdb
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.csprojAssemblyReference.cache
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.AssemblyInfoInputs.cache
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.AssemblyInfo.cs
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\staticwebassets\API Com ASP.NET Core.StaticWebAssets.Manifest.cache
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\staticwebassets\API Com ASP.NET Core.StaticWebAssets.xml
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\scopedcss\bundle\API Com ASP.NET Core.styles.css
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.RazorTargetAssemblyInfo.cache
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.csproj.CopyComplete
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\ref\API Com ASP.NET Core.dll
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.pdb
+D:\Documentos\Projetos\API Com ASP.NET Core\obj\Debug\net5.0\API Com ASP.NET Core.genruntimeconfig.cache
